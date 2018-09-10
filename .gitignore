@@ -106,3 +106,4 @@ venv.bak/
 datasets/potsdam/Images/
 datasets/potsdam/Labels/
 datasets/potsdam/LabelsRaw/
+datasets/potsdam/tfrecord/
