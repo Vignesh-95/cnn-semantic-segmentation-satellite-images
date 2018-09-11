@@ -107,3 +107,5 @@ datasets/potsdam/Images/
 datasets/potsdam/Labels/
 datasets/potsdam/LabelsRaw/
 datasets/potsdam/tfrecord/
+datasets/potsdam/exp/
+datasets/potsdam/init_models/
