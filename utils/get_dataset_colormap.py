@@ -334,7 +334,7 @@ def create_potsdam_label_colormap():
   Returns:
     A colormap for visualizing segmentation results.
   """
-  return np.asarray([[0, 0, 255], [0, 255, 0], [0, 255, 255], [255, 0, 0], [255, 255, 0], [255, 255, 255]])
+  return np.asarray([[0, 255, 0], [0, 255, 255], [255, 255, 255], [255, 255, 0], [0, 0, 255], [255, 0, 0]])
 
 
 def get_ade20k_name():

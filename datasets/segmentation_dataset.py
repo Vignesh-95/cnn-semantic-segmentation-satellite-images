@@ -110,11 +110,11 @@ _ADE20K_INFORMATION = DatasetDescriptor(
 
 _POTSDAM = DatasetDescriptor(
     splits_to_sizes={
-        'train': 8712,  # num of samples in images/training
-	'trainval': 2904,
-        'val': 6776,  # num of samples in images/validation
+        'train': 2000,  # num of samples in images/training
+	'trainval': 900,
+        'val': 900,  # num of samples in images/validation
     },
-    num_classes=6,
+    num_classes=7,
     ignore_label=0,
 )
 
